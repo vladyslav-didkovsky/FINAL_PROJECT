@@ -7,7 +7,7 @@ Since the scope of the project will be highly dependent on the data, these two t
 
 Identify and gather the data you'll be using for your project (at least two sources and more than 1 million rows). See Project Resources for ideas of what data you can use.
 Explain what end use cases you'd like to prepare the data for (e.g., analytics table, app back-end, source-of-truth database, etc.)
-Step 2: Explore and Assess the Data
+* Step 2: Explore and Assess the Data
 Explore the data to identify data quality issues, like missing values, duplicate data, etc.
 Document steps necessary to clean the data
 Step 3: Define the Data Model
